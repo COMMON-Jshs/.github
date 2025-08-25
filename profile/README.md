@@ -10,5 +10,5 @@
 * 제곽 학교생활 안드로이드 앱
 * 제곽 학교생활 iOS 앱
 
-**정보축제 개발 프로젝트**
+**정보축제 소스**
 * [2025 정보축제 - Jshs Run](https://github.com/COMMON-Jshs/2025-information-festival-Arcade-Jshs-Run)
