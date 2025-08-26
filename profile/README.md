@@ -2,7 +2,7 @@
 
 제주과학고등학교 최강 정보 동아리 COMMON입니다.
 
-**이디저디 개발 프로젝트**
+**이디저디 v2.0 소스**
 * [제곽 학교생활 웹 사이트](https://github.com/COMMON-Jshs/menkakusitsu-web)
 * [제곽 학교생활 API](https://github.com/COMMON-Jshs/menkakusitsu-api)
 * [제곽 학교생활 라이브러리](https://github.com/COMMON-Jshs/menkakusitsu-lib)
